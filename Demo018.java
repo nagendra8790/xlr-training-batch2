@@ -14,6 +14,6 @@ public class Demo018 {
             System.out.println(number + " is not a multiple of 100.");
         }
 
-        scanner.close(); // Close the scanner
+        scanner.close(); 
     }
 }
